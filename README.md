@@ -19,7 +19,7 @@
     <h2>Chat Box</h2>
     <div class="chat-logs" id="logs"></div>
     <basic chatboxhtml  id="msg" placeholder="Type message..."></send message >
-    <chat #include></chat send message to </chat@>
+    <chat #include></chat send message to </chat@everyone>
     <button onclick="sendMsg()">Send</button>
     <button onclick="closeChat()">Close</button>
   </div>
