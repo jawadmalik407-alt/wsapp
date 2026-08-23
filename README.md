@@ -16,7 +16,7 @@
 									                                                                                    <HTML Structure>
 <div class="chat-popup" id="chats">
   <div class="form-container">
-    <h2>Chat Box</h2>
+    <h2>Chat Box [send text]</h2>
     <div class="chat-logs" id="logs"></div>
     <basic chatboxhtml  id="msg" placeholder="Type message..."></send message >
     <chat #include></chat send message to </chat@everyone>
