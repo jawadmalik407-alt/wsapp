@@ -13,17 +13,17 @@
 		                                                                                     
 									                                                                                                                                                </dev>similey in chat [simileys😱😎👯🍕💓🌞💗😃⭆⏺😍☺️😭🍄🦋🌸♏️💗༼ つ ◕_◕ ༽つ🍰🍔🍕
 
-									                                                                                                                                                    <!-- HTML Structure -->
+									                                                                                    <HTML Structure>
 <div class="chat-popup" id="chats">
   <div class="form-container">
     <h2>Chat Box</h2>
     <div class="chat-logs" id="logs"></div>
     <textarea id="msg" placeholder="Type message..."></textarea>
+    <chat #include></chat send message to </chat@>
     <button onclick="sendMsg()">Send</button>
     <button onclick="closeChat()">Close</button>
   </div>
 </div>
-
 
 # wsapp
 to create app
