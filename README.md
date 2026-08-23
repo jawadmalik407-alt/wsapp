@@ -18,7 +18,7 @@
   <div class="form-container">
     <h2>Chat Box</h2>
     <div class="chat-logs" id="logs"></div>
-    <textarea id="msg" placeholder="Type message..."></textarea>
+    <basic chatboxhtml  id="msg" placeholder="Type message..."></send message >
     <chat #include></chat send message to </chat@>
     <button onclick="sendMsg()">Send</button>
     <button onclick="closeChat()">Close</button>
